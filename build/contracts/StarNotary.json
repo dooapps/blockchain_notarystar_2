@@ -7799,11 +7799,12 @@
       "events": {},
       "links": {},
       "address": "0xa2980540F02a319410bA757A7012f7b220817bE6",
-      "transactionHash": "0x04fdfc1ee1b1334c48f8e71c19f886b4c32f3d0aaa6333219a37477257092481"
+      "transactionHash": "0xce88e33572d9fd57c89f6032558862ab8c399d2d3df0877b5fc34a37c9ebcc97"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-07-29T19:52:04.642Z",
+  "updatedAt": "2021-07-29T21:51:10.899Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {
       "approve(address,uint256)": {
